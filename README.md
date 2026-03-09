@@ -4,9 +4,6 @@ This is an automated Python Telegram bot that turbocharges your job application 
 2. Read your personal CV and automatically draft a tailored cover letter demonstrating why you are a great fit.
 3. Automatically email the hiring manager directly with the cover letter and your CV attached.
 
-![Architecture Diagram](https://raw.githubusercontent.com/yourusername/telegram_job_bot/main/telegram_bot_architecture.png)
-*(Note: Be sure to upload `telegram_bot_architecture.png` to your repo!)*
-
 ## 🛠️ Features
 - **Zero-Friction Applying:** See a job ad on LinkedIn or Twitter? Just snap a screenshot on your phone and forward it to your bot.
 - **Smart Data Extraction:** Powered by Google's cutting-edge Gemini 2.5 Flash vision model to intelligently extract contact info from messy screenshots.
